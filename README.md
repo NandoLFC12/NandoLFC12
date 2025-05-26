@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="80" src="[https://epicorpg.com.br/wp-content/uploads/2019/03/caverna-complexo.gif](http://br.pinterest.com/pin/36239971994616323/)"  />
+<img align="right" height="80" src="https://epicorpg.com.br/wp-content/uploads/2019/03/caverna-complexo.gif"  />
 
 ###
 
