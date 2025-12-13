@@ -1,6 +1,6 @@
-<h2 align="left">👋 Olá! Meu nome é Luiz Fernando.<br><br>🎓 Sou formado em Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI.  
+<h3 align="left">👋 Olá! Meu nome é Luiz Fernando.<br><br>🎓 Sou formado em Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI. 
 <br>💻 Tenho interesse em programação e desenvolvimento de software, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. 
-<br>🎮 Tenho curiosidade e interesse em programação e criação de jogos, aprendendo tecnologias como Godot e outras engines.</h2>
+<br>🎮 Tenho curiosidade e interesse em programação e criação de jogos, aprendendo tecnologias como Godot e outras engines.</h3>
 
 ###
 
@@ -48,10 +48,3 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NandoLFC12/NandoLFC12/output/snake.svg" alt="Snake animation" />
-
-###
