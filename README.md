@@ -1,4 +1,6 @@
-<h2 align="left">👋 Olá! Meu nome é Luiz Fernando.<br><br>🎓 Sou formado em Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI.  <br>💻 Tenho interesse em programação e desenvolvimento de software, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.  <br>🎮 Tenho curiosidade e interesse em programação e criação de jogos, aprendendo tecnologias como Godot e outras engines.</h2>
+<h2 align="left">👋 Olá! Meu nome é Luiz Fernando.<br><br>🎓 Sou formado em Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI.  
+<br>💻 Tenho interesse em programação e desenvolvimento de software, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. 
+<br>🎮 Tenho curiosidade e interesse em programação e criação de jogos, aprendendo tecnologias como Godot e outras engines.</h2>
 
 ###
 
